@@ -1,3 +1,12 @@
+## The two functions makeCacheMatrix() & cacheSolve() - caches the inverse of a matrix
+## The functions create a special object to store a matrix and cache its inverse
+##Initializes the object, defines function for objects of type makeCacheMatrix()
+
+
+
+
+
+
 makeCacheMatrix <- function(x = matrix()) 
 { 
 
